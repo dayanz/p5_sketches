@@ -8,7 +8,7 @@ function setup() {
 
 function draw() {
 	// clear the background
-	background(0, 0, 0);
+	background(100, 0, 0);
 
 	// set drawing styles
 	stroke(255, 0, 0);
